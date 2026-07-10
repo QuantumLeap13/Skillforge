@@ -1,0 +1,8 @@
+<resources>
+    <color name="cream">#F8F5EF</color>
+    <color name="teal">#0E7C7B</color>
+    <color name="light_teal">#E5F3F2</color>
+    <color name="text_primary">#1C1C1C</color>
+    <color name="text_secondary">#6B6B6B</color>
+    <color name="white">#FFFFFF</color>
+</resources>

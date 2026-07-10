@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.Skillforge"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Cream background for the app -->
+        <item name="android:windowBackground">@color/cream</item>
+
+    </style>
+
+    <!-- App theme -->
+    <style name="Theme.Skillforge"
+        parent="Base.Theme.Skillforge" />
+
+</resources>
